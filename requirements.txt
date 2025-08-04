@@ -1,0 +1,7 @@
+streamlit
+cryptography
+qrcode
+pandas
+pillow
+python-docx
+PyMuPDF

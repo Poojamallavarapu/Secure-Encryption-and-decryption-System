@@ -1,0 +1,5 @@
+[2025-08-03 23:31:24] | Action: Encrypt | Data Type: Text | Status: Failed - `st.download_button()` can't be used in an `st.form()`.
+
+For more information, refer to the
+[documentation for forms](https://docs.streamlit.io/develop/api-reference/execution-flow/st.form).
+
