@@ -13,3 +13,11 @@ A Streamlit-based application for secure encryption and decryption of text and f
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+
+ GIT CLONE
+ git init
+git add .
+git commit -m "Initial commit - Secure-Encryption-and-decryption-System"
+git remote add origin https://github.com/username/Secure-Encryption-and-decryption-System
+git branch -M main
+git push -u origin main
