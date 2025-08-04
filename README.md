@@ -1,4 +1,4 @@
-# 🔐 Secure Encryption App
+# 🔐 Secure-Encryption-and-decryption-System
 
 A Streamlit-based application for secure encryption and decryption of text and files using symmetric encryption (Fernet).
 
